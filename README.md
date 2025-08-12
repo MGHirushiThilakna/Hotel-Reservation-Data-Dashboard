@@ -43,4 +43,4 @@ It enables hotel managers to track booking performance, monitor occupancy rates,
 ---
 
 ## 📷 Dashboard Preview
-![Reservation Overview] (https://github.com/MGHirushiThilakna/Hotel-Reservation-Data-Dashboard/blob/main/Screenshots/Screenshot-Hotel%20reservation.png)
+![Reservation Overview]( https://github.com/MGHirushiThilakna/Hotel-Reservation-Data-Dashboard/blob/main/Screenshots/Screenshot-Hotel%20reservation.png )
