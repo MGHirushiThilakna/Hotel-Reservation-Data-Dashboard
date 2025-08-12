@@ -44,3 +44,22 @@ It enables hotel managers to track booking performance, monitor occupancy rates,
 
 ## 📷 Dashboard Preview
 ![Reservation Overview]( https://github.com/MGHirushiThilakna/Hotel-Reservation-Data-Dashboard/blob/main/Screenshots/Screenshot-Hotel%20reservation.png )
+
+## 🚀 How to Use
+1. **Download** the `.pbix` file from this repository.
+2. **Open** it using **Power BI Desktop**.
+3. If prompted, update the data source path in **Power Query**.
+---
+## 📊 Key Metrics in the Dashboard
+- **Total Reservations**
+- **Cancellation Rate**
+- - **Top Booking Channels**
+- - **Total Revenue**
+- **Loyalty Tier Distribution**
+---
+
+## 🔮 Future Enhancements
+- Customer satisfaction surveys integration
+- Integration with live hotel CRM for real-time loyalty tracking
+- Predictive model for loyalty tier upgrades/downgrades
+- Loyalty program performance tracking
